@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { useLocation } from 'react-router-dom'
 import Picture from '../../assets/img/Picture2.png'
 
+
 const Footer = () => {
 
   const location=useLocation()
